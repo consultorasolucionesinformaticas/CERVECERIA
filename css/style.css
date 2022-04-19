@@ -9,3 +9,20 @@ background-color: antiquewhite;
 font-style: italic;
 }
 
+#galeria .col-lg-2
+
+{
+    margin: 0 !important;
+    padding: 25px;
+}
+
+#galeria img
+{
+width: 500px;
+height: 500px;
+}
+
+#galeria img:hover
+{
+    border: 5px solid white;
+}
